@@ -1,5 +1,5 @@
 # this-and-props-in-reactjs
-Using This and Props with Bootstrap Table in React Js. Then, add to react configuration and import Main.js file.
+Using This and Props with Bootstrap Table in React Js. Then, add to react configuration and import file Main.js to file app.js.
 
 ## Available Scripts
 In the project directory, you can run:
